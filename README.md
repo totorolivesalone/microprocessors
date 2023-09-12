@@ -16,5 +16,13 @@ Code:add8.txt
 
 ![image](https://github.com/totorolivesalone/microprocessors/assets/129025317/e366e20f-d6c9-4e90-b71f-4c1c17ed2c3d)
 
+#### Lab 2
+***
+Code:lab2.asm
+
+![image](https://github.com/totorolivesalone/microprocessors/assets/129025317/73f04eea-a9a5-4c6b-a0b6-345f860ece5a)
+
+
+
 
 
