@@ -10,8 +10,9 @@
 6. link filename.obj
 7. td filename.exe
 8. run>>run
-##### Add 2 8-bit numbers
-
+#### Add 2 8-bit numbers
+***
+Code:add8.txt
 ![image](https://github.com/totorolivesalone/microprocessors/assets/129025317/e366e20f-d6c9-4e90-b71f-4c1c17ed2c3d)
 
 
